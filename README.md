@@ -22,7 +22,7 @@ In order to monitor and assess bank's lending activities and performance, we nee
 
 4.Good/Bad Loan Total Received Amount: Tracking the total amount received from borrowers for 'Good/Bad Loans,'.
 
-## Task carried out
+## Tasks carried out
 
 ### 1. Understanding the Case
 
