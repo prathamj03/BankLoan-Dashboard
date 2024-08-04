@@ -54,3 +54,6 @@
   The dashboards became interactive and dynamic by creating slicers and links to other dashboard & data sheet.
 
   ![image](https://github.com/prathamj03/BankLoan-Dashboard/blob/main/Images/4.png)
+  
+  ![image](https://github.com/prathamj03/BankLoan-Dashboard/blob/main/Images/5.png)
+  
